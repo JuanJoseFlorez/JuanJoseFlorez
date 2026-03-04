@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Juan José Flórez</h2>
+<h2 align="center">👋 Hi, I'm Juan Jose Florez</h2>
 
 <p align="center">
   <i>Full Stack Engineer (Backend-leaning) • Python APIs & Integrations • PHP • React (TypeScript)</i>
