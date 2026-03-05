@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">✨ About me</h2>
+<h2 align="center">👨‍💻 About me</h2>
 
 - 🧩 Backend-leaning **Full Stack Engineer** with end-to-end delivery experience (from product discovery and system design to UI and releases).
 - 🧠 Background as **Product Owner** + Engineer: I’m used to translating business goals into technical execution, prioritizing impact, and delivering iteratively.
